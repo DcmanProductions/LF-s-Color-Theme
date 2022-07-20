@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Color_Theme.8515b015-c149-4937-a425-d7932b8f1a30" Version="1.0" Language="en-US" Publisher="Drew Chase" />
-        <DisplayName>Color_Theme</DisplayName>
+        <Identity Id="LFs_Color_Theme.8515b015-c149-4937-a425-d7932b8f1a30" Version="1.0" Language="en-US" Publisher="Drew Chase" />
+        <DisplayName>LF's Color Theme</DisplayName>
         <Description xml:space="preserve">Drew Chase Color Theme</Description>
     </Metadata>
     <Installation>
